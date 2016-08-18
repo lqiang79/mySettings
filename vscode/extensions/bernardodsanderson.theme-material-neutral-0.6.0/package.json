@@ -1,0 +1,98 @@
+{
+	"__metadata": {
+		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
+		"id": "e5cd8e96-c6ae-482e-99ef-ab490fdb6951",
+		"publisherId": "fbdf55f2-5449-47b4-b427-8200fc7ba4b8",
+		"publisherDisplayName": "bernardodsanderson",
+		"installCount": 335,
+		"versions": [
+			{
+				"version": "0.6.0",
+				"date": "2016-06-22T21:17:22.083Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.1",
+					"User-Agent": "VSCode 1.2.1",
+					"X-Market-User-Id": "0187534479db1f257c3cfef92eb9b71aa4052f5fb144cfdcbe0943d23b278536"
+				},
+				"downloadUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.6.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.6.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.5.0",
+				"date": "2016-06-22T20:56:52.19Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.1",
+					"User-Agent": "VSCode 1.2.1",
+					"X-Market-User-Id": "0187534479db1f257c3cfef92eb9b71aa4052f5fb144cfdcbe0943d23b278536"
+				},
+				"downloadUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.5.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.5.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.4.0",
+				"date": "2016-06-22T20:55:45.423Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.1",
+					"User-Agent": "VSCode 1.2.1",
+					"X-Market-User-Id": "0187534479db1f257c3cfef92eb9b71aa4052f5fb144cfdcbe0943d23b278536"
+				},
+				"downloadUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.4.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.4.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.3.0",
+				"date": "2016-06-22T20:46:02.883Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.1",
+					"User-Agent": "VSCode 1.2.1",
+					"X-Market-User-Id": "0187534479db1f257c3cfef92eb9b71aa4052f5fb144cfdcbe0943d23b278536"
+				},
+				"downloadUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.3.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.3.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.2.0",
+				"date": "2016-06-07T20:46:17.527Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.1",
+					"User-Agent": "VSCode 1.2.1",
+					"X-Market-User-Id": "0187534479db1f257c3cfef92eb9b71aa4052f5fb144cfdcbe0943d23b278536"
+				},
+				"downloadUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.2.0/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.2.0/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			},
+			{
+				"version": "0.0.1",
+				"date": "2016-06-07T20:33:13.793Z",
+				"downloadHeaders": {
+					"X-Market-Client-Id": "VSCode 1.2.1",
+					"User-Agent": "VSCode 1.2.1",
+					"X-Market-User-Id": "0187534479db1f257c3cfef92eb9b71aa4052f5fb144cfdcbe0943d23b278536"
+				},
+				"downloadUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
+				"manifestUrl": "https://bernardodsanderson.gallery.vsassets.io/_apis/public/gallery/publisher/bernardodsanderson/extension/theme-material-neutral/0.0.1/assetbyname/Microsoft.VisualStudio.Code.Manifest"
+			}
+		]
+	},
+	"name": "theme-material-neutral",
+	"displayName": "Material Neutral Theme",
+	"description": "A modified and updated Material Theme",
+	"version": "0.6.0",
+	"publisher": "bernardodsanderson",
+	"engines": {
+		"vscode": "^0.10.10"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Material Neutral",
+				"uiTheme": "vs-dark",
+				"path": "./themes/MaterialNeutral.tmTheme"
+			}
+		]
+	}
+}
